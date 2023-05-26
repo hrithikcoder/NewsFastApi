@@ -18,3 +18,4 @@ threadpoolctl
 tzdata
 uvicorn
 Werkzeug
+gunicorn
